@@ -1,4 +1,5 @@
-nooby-development
-=================
+I'm a MineCraft player who wants to try and create some original plugins.
 
-The beginning of a journey into code, and you just joined the party!
+Maybe someday I will host a renowned server :D
+
+Thanks lol.
